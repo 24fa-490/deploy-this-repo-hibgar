@@ -6,7 +6,7 @@ import postgres from 'postgres'
 
 import * as env from '$env/dynamic/private';
 
-const PGCONNECT = env.DATABASE_URL; // My variable name here was DATABASE_URL not PGCONNECT
+//const PGCONNECT = env.DATABASE_URL; // My variable name here was DATABASE_URL not PGCONNECT
 
 const sql = postgres(PGCONNECT)
 
