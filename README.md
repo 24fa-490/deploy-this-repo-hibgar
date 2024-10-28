@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-https://deploy-this-repo-hibgar-aph9-mfsrowixd-hibamughals-projects.vercel.app/
+https://deploy-this-repo-hibgar-aph9-git-main-hibamughals-projects.vercel.app/
 
 
