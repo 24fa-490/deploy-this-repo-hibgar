@@ -1,5 +1,5 @@
 
-import sql from '$lib/server/database';
+import { sql } from "@vercel/postgres";
 
 export async function load() {
     const rows = sql`
